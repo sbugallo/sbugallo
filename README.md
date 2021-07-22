@@ -15,3 +15,5 @@ You can find me on:
 
 
 ![](https://github-readme-stats.vercel.app/api?username=sbugallo&count_private=true&custom_title=Stats)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=sbugallo&layout=compact&hide=html,makefile)
