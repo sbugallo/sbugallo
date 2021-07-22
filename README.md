@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hello there! I'm Sergio Bugallo 👋
 
-<!--
-**sbugallo/sbugallo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **machine learning and MLOps engineer** from Galicia, Spain. 🇪🇸
 
-Here are some ideas to get you started:
+I have been working on **computer vision** projects applied to ehealth, surveillance and automatic TV production. 🤖 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm quite proficient in **Python 🐍, C++ 🚀, TypeScript 🌐 and Docker 🐳**.
+
+You can find me on:
+
+* [GitHub Pages](https://sbugallo.github.io/)
+* [GitHub](https://github.com/sbugallo)
+* [LinkedIn](https://linkedin.com/in/sbugallo)
+* [Email](mailto:sergiobugalloenjamio@gmail.com)
+
+
+![](https://github-readme-stats.vercel.app/api?username=sbugallo&count_private=true&custom_title=Stats)
