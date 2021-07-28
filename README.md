@@ -2,7 +2,7 @@
 
 I'm a **machine learning and MLOps engineer** from Galicia, Spain. 🇪🇸
 
-I have been working on **computer vision** projects applied to ehealth, surveillance and automatic TV production. 🤖 
+I have been working on **computer vision** projects applied to **ehealth🩺, surveillance 📹 and automatic TV production 🏟️**.
 
 I'm quite proficient in **Python 🐍, C++ 🚀, TypeScript 🌐 and Docker 🐳**.
 
