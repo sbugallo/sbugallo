@@ -8,10 +8,9 @@
 
 ## 👋 About Me
 
-I'm an **AI/Machine Learning and MLOps engineer** from Galicia, Spain. I hold a B.Sc. in 
-Telecommunications Technology Engineering (2016) and an M.Sc. in Telecommunications Engineering 
-(2018) 📡, both from the University of Vigo. Currently, I work at Prosegur AVOS Tech, where I focus 
-on developing Generative AI-powered solutions applied to LegalTech, InsurTech, and FinTech.
+I'm an **AI/Machine Learning and MLOps engineer** from Galicia, Spain. I hold a **B.Sc. and**
+**an M.Sc. in Telecommunications Engineering 📡**, both from the University of Vigo. Currently, 
+I work at **Prosegur AVOS Tech**, where I focus on developing **Generative AI-powered solutions**.
 
 I have extensive experience working on **computer vision** and **generative AI** projects across 
 diverse domains including **eHealth 🩺**, **surveillance 📹**, **automatic TV production 🏟️**, and 
@@ -69,16 +68,16 @@ You can find me on:
 
 ## 💼 Projects
 
-| NAME | COMPANY | DESCRIPTION | URL | 
-|------|---------|-------------|-----| 
-| ⚖️ Certification of Sufficiency of Powers | Prosegur | AI-powered service that analyzes notarial deeds and automatically extracts all relevant details, including the notary's name, date, protocol number, attorneys-in-fact, grantors, granted powers, and any limitations. | | 
-| 📄 Testamentary Proceedings | Prosegur | AI-driven document validation service that streamlines probate processes by automatically verifying that all required documents are present, complete, and valid. | | 
-| 💬 Virtual Assistant | Prosegur | AI assistant for contact center agents that instantly answers questions about different campaigns, recommends next-best actions to improve sales and customer service. | [link](https://www.prosegur.com/media/articulo/prensa/avos-tech-atencion-cliente-coordinador-virtual) | 
-| 🚀 SISnet Boost | Prosegur | AI copilot that assists users in creating, modifying, and navigating the various components of SISnet, the insurance core system. | | 
-| 👁️ G-Edge | Prosegur | Advanced edge computing solution that leverages computer vision to monitor and detect anomalies in security camera feeds in real time. | | 
-| 🎬 tiivii | Cinfo | tiivii is a fully automated AI-powered professional television platform that allows any content rights owner (sports, music, cultural,…) to create their scalable television channels with live and on-demand content. tiivii simulates a human production team operating multi-camera rigs. | [link](https://tiivii.com/site/en/inicio-english/) | 
-| 🩺 ACE | Gradiant | Intelligent system that supports diagnosis and decision-making in chronic wound treatment using deep learning-based image processing modules. | [link](https://gradiant.org/en/projects/ace-ignicia/) | 
-| ✈️ SkyWay | Gradiant | Solutions for managing GPS loss contingencies with on-board vision system that supports autonomous navigation using georeferenced imagery. | [link](https://gradiant.org/en/projects/skyway/) | 
-| 🌾 PRIMARE | Gradiant | Automated and intelligent control of agricultural activities with georeferenced information management system for agricultural activity controls across Galicia. | [link](https://gradiant.org/en/projects/primare/) | 
-| 🛡️ SPACE | Gradiant | Perimeter protection system to defend infrastructure against drone-based airstrikes using RF spectrum analysis and optical sensors. | [link](https://gradiant.org/en/projects/space-2/) | 
-| 🏖️ Capacity Control | Gradiant | System to monitor beach capacity using drones with AI-based video analysis that counts people and boats in real time. | [link](https://www.elespanol.com/quincemil/economia/empresas/20200605/empresa-corunesa-crea-sistema-controlar-drones-aforo-playas/495452109_0.html) |
+| NAME | YEAR | COMPANY | DESCRIPTION | URL | 
+|------|------|---------|-------------|-----| 
+| **Certification of Sufficiency of Powers** | 2025 | Prosegur | AI-powered service that analyzes notarial deeds and automatically extracts all relevant details, including the notary's name, date, protocol number, attorneys-in-fact, grantors, granted powers, and any limitations. | | 
+| **Testamentary Proceedings** | 2024 | Prosegur | AI-driven document validation service that streamlines probate processes by automatically verifying that all required documents are present, complete, and valid. | | 
+| **Virtual Assistant** | 2024 | Prosegur | AI assistant for contact center agents that instantly answers questions about different campaigns, recommends next-best actions to improve sales and customer service. | [link](https://www.prosegur.com/media/articulo/prensa/avos-tech-atencion-cliente-coordinador-virtual) | 
+| **SISnet Boost** | 2023 | Prosegur | AI copilot that assists users in creating, modifying, and navigating the various components of SISnet, the insurance core system. | | 
+| **G-Edge** | 2022 | Prosegur | Advanced edge computing solution that leverages computer vision to monitor and detect anomalies in security camera feeds in real time. | | 
+| **tiivii** | 2021 | Cinfo | tiivii is a fully automated AI-powered professional television platform that allows any content rights owner (sports, music, cultural,…) to create their scalable television channels with live and on-demand content. tiivii simulates a human production team operating multi-camera rigs. | [link](https://tiivii.com/site/en/inicio-english/) | 
+| **SkyWay** | 2020 | Gradiant | Solutions for managing GPS loss contingencies with on-board vision system that supports autonomous navigation using georeferenced imagery. | [link](https://gradiant.org/en/projects/skyway/) | 
+| **SPACE** | 2020 | Gradiant | Perimeter protection system to defend infrastructure against drone-based airstrikes using RF spectrum analysis and optical sensors. | [link](https://gradiant.org/en/projects/space-2/) | 
+| **Capacity Control** | 2020 | Gradiant | System to monitor beach capacity using drones with AI-based video analysis that counts people and boats in real time. | [link](https://www.elespanol.com/quincemil/economia/empresas/20200605/empresa-corunesa-crea-sistema-controlar-drones-aforo-playas/495452109_0.html) |
+| **PRIMARE** | 2019 | Gradiant | Automated and intelligent control of agricultural activities with georeferenced information management system for agricultural activity controls across Galicia. | [link](https://gradiant.org/en/projects/primare/) | 
+| **ACE** | 2018 | Gradiant | Intelligent system that supports diagnosis and decision-making in chronic wound treatment using deep learning-based image processing modules. | [link](https://gradiant.org/en/projects/ace-ignicia/) | 
