@@ -10,7 +10,7 @@
 
 I'm an **AI/Machine Learning and MLOps engineer** from Galicia, Spain. I hold a **B.Sc. and**
 **an M.Sc. in Telecommunications Engineering 📡**, both from the University of Vigo. Currently, 
-I work at **Prosegur AVOS Tech**, where I focus on developing **Generative AI-powered solutions**.
+I work at **Inditex**, where I focus on developing **Generative AI-powered solutions**.
 
 I have extensive experience working on **computer vision** and **generative AI** projects across 
 diverse domains including **eHealth 🩺**, **surveillance 📹**, **automatic TV production 🏟️**, and 
